@@ -1,2 +1,2 @@
 # neo_xml
-POC XML Import using LUBM Dataset
+POC XML Import for Neo4j
